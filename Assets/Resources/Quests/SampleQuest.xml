@@ -1,0 +1,15 @@
+<Quest>
+    <QuestTitle>Sample Quest</QuestTitle>
+    <Nodes>
+        <Node>
+            <NodeTitle>Jonathan</NodeTitle>
+            <NodeText>Welcome to my sample quest!</NodeText>
+            <NodeImage>slayer</NodeImage>
+        </Node>
+        <Node>
+          <NodeTitle>Jonathan</NodeTitle>
+          <NodeText>Hope you enjoy the tutorial. Check out more of my Unity tutorials at jonathanyu.xyz</NodeText>
+          <NodeImage>slayer</NodeImage>
+        </Node>
+    </Nodes>
+</Quest>
